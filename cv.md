@@ -21,7 +21,7 @@ Applying for the position of a QA Engineer (manual)
 * Knowledge of various software testing techniques,
   as well as experience applying them
 * Attention to detail, analytical abilities, communicative,
-  learning ability. 
+  learning ability.
 
 ## Skills
 
@@ -39,4 +39,4 @@ __Databases__: MySQL.
 
 __OS__: Windows, Android.
 
-__Tools: Sourcetree, Jing, Postman, VirtualBox, Pict, Jing.
+__Tools__: Sourcetree, Jing, Postman, VirtualBox, Pict, Jing.

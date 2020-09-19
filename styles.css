@@ -19,9 +19,7 @@ header {
   height: 12em;
 }
 
-.photo {
-  width: 25%;
-}
+.photo { width: 25%; }
 
 .user-name {
   width: 75%;
@@ -54,7 +52,4 @@ img {
   border-top: 4px solid #7fffd4;
 }
 
-a {
-  text-decoration: none;
-}
-
+a { text-decoration: none; }

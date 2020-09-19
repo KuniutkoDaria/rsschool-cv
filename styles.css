@@ -4,6 +4,15 @@ body {
   font-family: Caladea, serif;
 }
 
+@media screen and (max-width: 1000px) {
+  body {
+    width: 840px;
+    margin: 20px auto;
+    font-family: Caladea, serif;
+    line-height: 150%;
+  }
+}
+
 header {
   display: flex;
   justify-content: space-between;
